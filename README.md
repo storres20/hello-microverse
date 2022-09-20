@@ -2,71 +2,47 @@
 
 # Project Name
 
-> Description the project.
+> In this project I create the repository with linters and the title of this repository is "Hello Microverse"
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML y CSS
+- Git, Github and Visual Studio Code
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://storres20.github.io/hello-microverse/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Choose a directory
+- Open a Terminal
+- write: git clone https://github.com/storres20/hello-microverse.git
+- get into to directory "hello-microverse"
+- write: npm install
 
 ## Authors
 
-👤 **Author1**
+👤 **ITALO**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@storres20](https://github.com/storres20)
+- Twitter: [@italolonkan](https://twitter.com/italolonkan)
+- LinkedIn: [italo](https://www.linkedin.com/in/italo-lon-kan/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/storres20/hello-microverse/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
